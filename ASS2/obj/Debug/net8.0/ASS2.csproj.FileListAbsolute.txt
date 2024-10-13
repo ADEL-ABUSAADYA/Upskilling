@@ -1,0 +1,15 @@
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS2/bin/Debug/net8.0/ASS2
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS2/bin/Debug/net8.0/ASS2.deps.json
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS2/bin/Debug/net8.0/ASS2.runtimeconfig.json
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS2/bin/Debug/net8.0/ASS2.dll
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS2/bin/Debug/net8.0/ASS2.pdb
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS2/obj/Debug/net8.0/ASS2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS2/obj/Debug/net8.0/ASS2.AssemblyInfoInputs.cache
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS2/obj/Debug/net8.0/ASS2.AssemblyInfo.cs
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS2/obj/Debug/net8.0/ASS2.csproj.CoreCompileInputs.cache
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS2/obj/Debug/net8.0/ASS2.sourcelink.json
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS2/obj/Debug/net8.0/ASS2.dll
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS2/obj/Debug/net8.0/refint/ASS2.dll
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS2/obj/Debug/net8.0/ASS2.pdb
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS2/obj/Debug/net8.0/ASS2.genruntimeconfig.cache
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS2/obj/Debug/net8.0/ref/ASS2.dll
