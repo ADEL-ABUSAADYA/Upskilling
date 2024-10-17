@@ -1,0 +1,15 @@
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS3/bin/Debug/net8.0/ASS3
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS3/bin/Debug/net8.0/ASS3.deps.json
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS3/bin/Debug/net8.0/ASS3.runtimeconfig.json
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS3/bin/Debug/net8.0/ASS3.dll
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS3/bin/Debug/net8.0/ASS3.pdb
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS3/obj/Debug/net8.0/ASS3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS3/obj/Debug/net8.0/ASS3.AssemblyInfoInputs.cache
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS3/obj/Debug/net8.0/ASS3.AssemblyInfo.cs
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS3/obj/Debug/net8.0/ASS3.csproj.CoreCompileInputs.cache
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS3/obj/Debug/net8.0/ASS3.sourcelink.json
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS3/obj/Debug/net8.0/ASS3.dll
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS3/obj/Debug/net8.0/refint/ASS3.dll
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS3/obj/Debug/net8.0/ASS3.pdb
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS3/obj/Debug/net8.0/ASS3.genruntimeconfig.cache
+/Users/adelabusaadya/RiderProjects/Upskilling/ASS3/obj/Debug/net8.0/ref/ASS3.dll
