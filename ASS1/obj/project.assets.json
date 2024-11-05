@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adelabusaadya/RiderProjects/Upskilling/ASS1/ASS1.csproj",
-      "projectName": "ASS1",
-      "projectPath": "/Users/adelabusaadya/RiderProjects/Upskilling/ASS1/ASS1.csproj",
+      "projectUniqueName": "/Users/adelabusaadya/Upskilling/ASS1/DAY-ONE.csproj",
+      "projectName": "DAY-ONE",
+      "projectPath": "/Users/adelabusaadya/Upskilling/ASS1/DAY-ONE.csproj",
       "packagesPath": "/Users/adelabusaadya/.nuget/packages/",
-      "outputPath": "/Users/adelabusaadya/RiderProjects/Upskilling/ASS1/obj/",
+      "outputPath": "/Users/adelabusaadya/Upskilling/ASS1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/adelabusaadya/.nuget/NuGet/NuGet.Config"

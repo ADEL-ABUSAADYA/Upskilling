@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adelabusaadya/RiderProjects/Upskilling/ASS2/ASS2.csproj",
+      "projectUniqueName": "/Users/adelabusaadya/Upskilling/ASS2/ASS2.csproj",
       "projectName": "ASS2",
-      "projectPath": "/Users/adelabusaadya/RiderProjects/Upskilling/ASS2/ASS2.csproj",
+      "projectPath": "/Users/adelabusaadya/Upskilling/ASS2/ASS2.csproj",
       "packagesPath": "/Users/adelabusaadya/.nuget/packages/",
-      "outputPath": "/Users/adelabusaadya/RiderProjects/Upskilling/ASS2/obj/",
+      "outputPath": "/Users/adelabusaadya/Upskilling/ASS2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/adelabusaadya/.nuget/NuGet/NuGet.Config"

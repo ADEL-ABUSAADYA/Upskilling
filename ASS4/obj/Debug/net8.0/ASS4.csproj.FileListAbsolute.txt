@@ -1,0 +1,15 @@
+/Users/adelabusaadya/Upskilling/ASS4/bin/Debug/net8.0/ASS4
+/Users/adelabusaadya/Upskilling/ASS4/bin/Debug/net8.0/ASS4.deps.json
+/Users/adelabusaadya/Upskilling/ASS4/bin/Debug/net8.0/ASS4.runtimeconfig.json
+/Users/adelabusaadya/Upskilling/ASS4/bin/Debug/net8.0/ASS4.dll
+/Users/adelabusaadya/Upskilling/ASS4/bin/Debug/net8.0/ASS4.pdb
+/Users/adelabusaadya/Upskilling/ASS4/obj/Debug/net8.0/ASS4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adelabusaadya/Upskilling/ASS4/obj/Debug/net8.0/ASS4.AssemblyInfoInputs.cache
+/Users/adelabusaadya/Upskilling/ASS4/obj/Debug/net8.0/ASS4.AssemblyInfo.cs
+/Users/adelabusaadya/Upskilling/ASS4/obj/Debug/net8.0/ASS4.csproj.CoreCompileInputs.cache
+/Users/adelabusaadya/Upskilling/ASS4/obj/Debug/net8.0/ASS4.sourcelink.json
+/Users/adelabusaadya/Upskilling/ASS4/obj/Debug/net8.0/ASS4.dll
+/Users/adelabusaadya/Upskilling/ASS4/obj/Debug/net8.0/refint/ASS4.dll
+/Users/adelabusaadya/Upskilling/ASS4/obj/Debug/net8.0/ASS4.pdb
+/Users/adelabusaadya/Upskilling/ASS4/obj/Debug/net8.0/ASS4.genruntimeconfig.cache
+/Users/adelabusaadya/Upskilling/ASS4/obj/Debug/net8.0/ref/ASS4.dll
